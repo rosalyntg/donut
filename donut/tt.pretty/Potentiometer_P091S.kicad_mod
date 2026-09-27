@@ -7,7 +7,7 @@
 		(at 0 -0.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "4cce6137-be78-4977-b71c-47862ffa3a0f")
+		(uuid "aa3206a4-d803-473f-8f0b-c7e23f7e25c4")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "178a1751-6a10-4a13-b988-33426a5c473a")
+		(uuid "74edd025-b55e-4133-aecc-bec2b574ceda")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "6dc34afc-9bf9-4639-8b0e-28f020ca72db")
+		(uuid "b71c5325-cd00-4b9e-a7ce-4dc4ccaca14a")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "8cab7824-3c94-43cb-a58a-32e275f617b4")
+		(uuid "275c6c83-c362-4daa-956f-a74be07ff88b")
 		(effects
 			(font
 				(size 1 1)
@@ -59,7 +59,7 @@
 		(at 0 2.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "cf9eab29-2921-49f8-a8aa-f5fd2c124761")
+		(uuid "49f5bf24-958a-45d8-ac4a-482fc7c103d5")
 		(effects
 			(font
 				(size 1 1)
@@ -74,7 +74,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "40790003-cb1b-4836-abf5-23e29f753c92")
+		(uuid "7d62d7f6-39a0-4c50-9a04-3eca403aefd1")
 	)
 	(pad "2" thru_hole roundrect
 		(at 0 -2.5)
@@ -83,7 +83,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "eed2e30d-36a8-438f-9e31-fc1f4d1b1f28")
+		(uuid "c073d228-bb42-4ff7-99d0-45ebc73c36aa")
 	)
 	(pad "3" thru_hole roundrect
 		(at 6.25 2.5)
@@ -92,7 +92,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "f42e381a-88b0-422a-8fa4-2e37a04fa355")
+		(uuid "a6af85a5-0aa2-45d3-a170-1bc6b2eb89a8")
 	)
 	(pad "4" thru_hole roundrect
 		(at 6.25 0)
@@ -101,7 +101,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "cc76aa71-99de-46e1-98d7-0a7e8cc80342")
+		(uuid "6a4f3e29-ebe8-4a94-aab5-326c010f28ec")
 	)
 	(pad "5" thru_hole roundrect
 		(at 6.25 -2.5)
@@ -110,10 +110,10 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15)
-		(uuid "97113535-0a1d-445f-8354-d4e30f8f173c")
+		(uuid "b9faa005-3cf4-4353-bd68-66df139ad0f0")
 	)
 	(embedded_fonts no)
-	(model "/home/russell/donut/3d/P091S-FC20BR10K.stp"
+	(model "../3d/P091S-FC20BR10K.stp"
 		(offset
 			(xyz 10.2 -0.2 6.5)
 		)

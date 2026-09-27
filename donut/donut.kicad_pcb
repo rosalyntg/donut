@@ -8328,16 +8328,6 @@
 		(path "/d1e1cf00-4595-47bc-9803-1146e7f8e893")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-			(unit
-				(name "B")
-				(pins "3" "4" "5")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text user "${REFERENCE}"
@@ -8413,7 +8403,7 @@
 			(uuid "c768b1c1-d41e-452f-bf90-80e0dd9091d3")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/P091S-FC20BR10K.stp"
+		(model "../3d/P091S-FC20BR10K.stp"
 			(offset
 				(xyz 10.2 -0.2 6.5)
 			)
@@ -22964,12 +22954,6 @@
 		(path "/726ce9cb-a834-4455-ae71-c33f30aef1d2")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23243,7 +23227,7 @@
 			(uuid "ba74d394-f9bb-468b-bde0-0ff42411ac3e")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23375,12 +23359,6 @@
 		(path "/c29db79e-5320-4829-8642-97f72770c837")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23653,7 +23631,7 @@
 			(uuid "261941f6-4af2-4f7f-a492-51f38717c232")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23785,12 +23763,6 @@
 		(path "/b5a15b3b-8494-42f5-b136-ae08e57784d0")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24063,7 +24035,7 @@
 			(uuid "61c7886e-ab96-4fc3-9aa2-fdedd0dc746c")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24195,12 +24167,6 @@
 		(path "/7bbe8926-7506-4fef-970c-6c494e66e497")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24474,7 +24440,7 @@
 			(uuid "8658d987-db01-45b8-8fe1-46722c9bb0e1")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24606,12 +24572,6 @@
 		(path "/260dd878-703a-449c-96db-b316d5a84a2f")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24885,7 +24845,7 @@
 			(uuid "4825104e-bade-4a7b-8542-19d0199e383a")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25017,12 +24977,6 @@
 		(path "/9a102cb1-9884-434d-be2b-cef6b7d1b371")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25296,7 +25250,7 @@
 			(uuid "eaded9bd-b736-4a76-ba88-711b0d9c0f0e")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25428,12 +25382,6 @@
 		(path "/8a2be9e0-7cf8-4ab9-bd31-c1d58c738c44")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25707,7 +25655,7 @@
 			(uuid "10406a71-59f4-4955-9574-dc6a59bf3f52")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25839,12 +25787,6 @@
 		(path "/1868fdb7-a20e-4e91-aef9-cd35b4dc9cfa")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26117,7 +26059,7 @@
 			(uuid "679cbcf0-db88-43b9-9854-d43d98746efb")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26249,12 +26191,6 @@
 		(path "/3027b36a-5dbe-4715-8d6c-b17b73758e25")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26528,7 +26464,7 @@
 			(uuid "26c21e6d-0195-4202-aa85-9516775083b2")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26660,12 +26596,6 @@
 		(path "/32556088-2d36-486f-85e6-7e51957e030e")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26939,7 +26869,7 @@
 			(uuid "8fcd47d6-4f09-4f95-a7c2-d69bc12479d4")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27071,12 +27001,6 @@
 		(path "/4c622de1-2d90-4242-9ea4-0adfd3d7980b")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27349,7 +27273,7 @@
 			(uuid "bc919681-ba5e-406e-9854-8ee93248813c")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27481,12 +27405,6 @@
 		(path "/84294cb7-58cb-4494-b5d2-d03f8870caa3")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27760,7 +27678,7 @@
 			(uuid "8d33e839-ab8c-4539-b07e-47e3c469de09")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27892,12 +27810,6 @@
 		(path "/80d53d7a-6c37-42b5-aff5-e7a7232df5c7")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28171,7 +28083,7 @@
 			(uuid "8794b0ac-3802-4761-b1eb-4f6cd5d31405")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28303,12 +28215,6 @@
 		(path "/4d97c4e0-9932-4f54-b0f2-08eae8a38a13")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28582,7 +28488,7 @@
 			(uuid "a19cbfee-3c32-48b8-b023-36fe9582f7a0")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28714,12 +28620,6 @@
 		(path "/f077989b-b651-48e4-a5d9-f8b09e87b492")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28993,7 +28893,7 @@
 			(uuid "6b144453-d4f0-4658-9105-a6e409d5b8f8")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29125,12 +29025,6 @@
 		(path "/5bf77203-6028-4114-bc27-84a51d33e9ae")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29404,7 +29298,7 @@
 			(uuid "745c33b9-4ef3-4dcc-bbf0-069c8b96de3d")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29536,12 +29430,6 @@
 		(path "/f0846151-2f2f-4022-a840-3b2916f5638a")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29815,7 +29703,7 @@
 			(uuid "0b9ea3cd-b529-496b-b495-3046b83ae7dd")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29947,12 +29835,6 @@
 		(path "/048864f4-32c3-42bf-bacf-13e94ff9a841")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30226,7 +30108,7 @@
 			(uuid "0619b8f0-c1a9-473c-b546-7de04a0e05df")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30358,12 +30240,6 @@
 		(path "/055b9ea5-5204-46ad-8fa7-d5ad0e3fa447")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30636,7 +30512,7 @@
 			(uuid "6a60718b-545f-4e15-ba0f-6ff46f50284c")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30768,12 +30644,6 @@
 		(path "/126b20aa-af9c-457a-86e3-9ebb86d6e79c")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31047,7 +30917,7 @@
 			(uuid "ef7c07a7-7791-43f3-bc81-5cc99fa0add0")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31179,12 +31049,6 @@
 		(path "/030ae9c4-16ca-4489-b5b8-ae748e23738c")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31458,7 +31322,7 @@
 			(uuid "ae7d3fec-de40-463e-ace7-af92ba160138")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31590,12 +31454,6 @@
 		(path "/a3e665b6-cddb-4553-a930-f854d5572d42")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31869,7 +31727,7 @@
 			(uuid "6763e3e1-894c-45f9-955d-d5e20fa3b724")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32001,12 +31859,6 @@
 		(path "/ddcc8d4f-fa39-4006-8f1f-a969e56764bd")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32280,7 +32132,7 @@
 			(uuid "e8fd0220-a6ed-4acc-b59f-ebc8ed0bb844")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32412,12 +32264,6 @@
 		(path "/5909ba3a-509b-469b-82f8-ff3d4e0cf04a")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32691,7 +32537,7 @@
 			(uuid "b39e8b09-3fe6-4b05-891a-2295a542c8db")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32823,12 +32669,6 @@
 		(path "/29ebebcc-cd09-4f07-8db5-c6a28ef52900")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33102,7 +32942,7 @@
 			(uuid "ea53108b-1299-44de-bfe4-263ccd862e47")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33234,12 +33074,6 @@
 		(path "/545bbc06-df8a-4a7b-96e8-3ca8bdc4624e")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33513,7 +33347,7 @@
 			(uuid "5d5f8321-9470-4933-be0f-f85039a843cc")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33645,12 +33479,6 @@
 		(path "/1b4f91ec-8993-4087-85ea-2cb4acb15cd9")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33924,7 +33752,7 @@
 			(uuid "53ea19d9-6d9d-4af1-b74c-43c2c8209e81")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34056,12 +33884,6 @@
 		(path "/45e18537-bf3f-458d-bc0e-9fd93cf2f4a5")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34335,7 +34157,7 @@
 			(uuid "a154e098-9e6e-4ee4-b997-b06445a5d214")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34467,12 +34289,6 @@
 		(path "/b3bbedd4-fbba-43db-a2b4-99ecdd0e9bb9")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34746,7 +34562,7 @@
 			(uuid "c30662cf-b628-4a4d-be89-d39aebde1535")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34878,12 +34694,6 @@
 		(path "/fdb97150-b53e-47ef-b286-b3417a0ecdff")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35157,7 +34967,7 @@
 			(uuid "f7699bc0-d5b2-4e85-8a6a-fabd8d15091a")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35289,12 +35099,6 @@
 		(path "/d5a32921-a261-4717-a8a0-507e7f404037")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35568,7 +35372,7 @@
 			(uuid "cc6e8131-a610-461e-9463-fc1bee16d9ea")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35700,12 +35504,6 @@
 		(path "/7a767b48-0ad7-4a7f-a4e2-9771160333d2")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35979,7 +35777,7 @@
 			(uuid "77a88493-562b-4c77-8a8f-3c4803ac2187")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36111,12 +35909,6 @@
 		(path "/e20a6c99-acb0-46e5-9d52-febe755b9f94")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36390,7 +36182,7 @@
 			(uuid "12acd30e-4a87-4e3b-baa4-414ab19e7c57")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36522,12 +36314,6 @@
 		(path "/43210b0a-c720-45bf-96fa-bcf73551b0eb")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36801,7 +36587,7 @@
 			(uuid "fa84fc56-cd3e-4fb7-8fb4-cfcb7c373a03")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36933,12 +36719,6 @@
 		(path "/d4adb7ad-97bc-456b-89e6-df24a6927041")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37212,7 +36992,7 @@
 			(uuid "2f2fecd5-25fa-47ac-a514-9a3c03d39eba")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37344,12 +37124,6 @@
 		(path "/72173290-5c7d-4687-b767-bc2a1f463f9f")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37622,7 +37396,7 @@
 			(uuid "c918b1c4-9a06-46ed-8aee-853eb1b5de62")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37754,12 +37528,6 @@
 		(path "/d91d7ea4-3501-4b33-b943-d1ff9f9db94f")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38033,7 +37801,7 @@
 			(uuid "206a5c37-2e7f-44bd-939e-f9e8961c528c")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38165,12 +37933,6 @@
 		(path "/03bae318-01e5-4538-9fc3-832af1ca0ff1")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38444,7 +38206,7 @@
 			(uuid "31c4a4c0-7c74-43f1-b8a0-f20d7deb1b42")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38576,12 +38338,6 @@
 		(path "/eae4d334-1e5d-4fc2-94d2-9ab8ed5ad06e")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38854,7 +38610,7 @@
 			(uuid "3ee1ca61-0b74-491f-9a1e-7aa93a736e58")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38986,12 +38742,6 @@
 		(path "/40816625-2f71-49e3-a841-9f597b5757e0")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39265,7 +39015,7 @@
 			(uuid "41cff4c4-c041-4f9e-9c42-e905fdc8b678")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39397,12 +39147,6 @@
 		(path "/eb27092a-2069-44c5-b587-e4906fa12c22")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39676,7 +39420,7 @@
 			(uuid "4a270919-6fc7-47c8-80c9-01e7bbcd6eda")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39808,12 +39552,6 @@
 		(path "/4dee376f-f7b2-4c4f-beec-d20694d52445")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40087,7 +39825,7 @@
 			(uuid "211b1a5c-30e3-4629-ac42-5be144e0ac79")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40219,12 +39957,6 @@
 		(path "/9b73260e-715b-418b-8705-04a85f4cb843")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40498,7 +40230,7 @@
 			(uuid "6f88d5ae-4ab7-4a41-9574-55be381bd6de")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40630,12 +40362,6 @@
 		(path "/f502672f-e612-491f-8850-8e244a5e970d")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40909,7 +40635,7 @@
 			(uuid "591c9563-af43-46ea-a63f-6b1eb92d14ec")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41041,12 +40767,6 @@
 		(path "/1d4f359e-40e6-4c8b-8b8f-2a8e0df2ca2f")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41320,7 +41040,7 @@
 			(uuid "ab9a6b12-108f-4560-b22c-ac3e8bca26d1")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41452,12 +41172,6 @@
 		(path "/c571ae22-7f98-4227-a9f6-605f3ffe296d")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41731,7 +41445,7 @@
 			(uuid "edeeea5f-9c62-4914-9c5a-83f5a87e3cfd")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41863,12 +41577,6 @@
 		(path "/fc9c8b74-451f-42ed-b9a1-f1187223e9a9")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42142,7 +41850,7 @@
 			(uuid "019e99a4-1d0d-4e9a-a5fc-93bae766e072")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42274,12 +41982,6 @@
 		(path "/7b394b80-cf85-4791-8bc4-2a1b19b5ec6f")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42553,7 +42255,7 @@
 			(uuid "07161bd5-5e56-4a2c-bb86-9ef243fd9c16")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42685,12 +42387,6 @@
 		(path "/ac157714-9e91-4555-81e7-194362d4ad20")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42964,7 +42660,7 @@
 			(uuid "564c902d-44de-485e-8b93-fe83763349b9")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43096,12 +42792,6 @@
 		(path "/da05305c-8240-4e3b-aad4-d64d8f9c68d8")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43375,7 +43065,7 @@
 			(uuid "79164213-9a5e-47cd-85f2-06f035d39361")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43507,12 +43197,6 @@
 		(path "/0d5af813-1989-4a6c-a368-fbb06f4369b9")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43786,7 +43470,7 @@
 			(uuid "2cd4a9b6-71df-4f11-a82a-af0e5e7ca35d")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45498,12 +45182,6 @@
 		(path "/3e5f5b74-36de-47b0-b338-5c3900c859d5")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45777,7 +45455,7 @@
 			(uuid "94d849df-f5dc-4628-a595-7ecd72e89dfb")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47699,12 +47377,6 @@
 		(path "/a621599f-25df-47e1-8b95-6e3c8bdaff10")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -47978,7 +47650,7 @@
 			(uuid "8e8d2022-fbb1-46e9-95f6-c365266e2fb8")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48110,12 +47782,6 @@
 		(path "/6a891620-68ac-422a-b4e3-40abb1ad3f2e")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48388,7 +48054,7 @@
 			(uuid "46ef4ffb-637c-4f28-8709-e9e8a696dc58")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48520,12 +48186,6 @@
 		(path "/19116fbb-3d8f-49de-ae2f-e3b5a071464f")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48799,7 +48459,7 @@
 			(uuid "b16a61f8-44d1-4994-b4b5-4c530d7615fe")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48931,12 +48591,6 @@
 		(path "/fff512a3-d34a-4921-adda-004f1941af46")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -49210,7 +48864,7 @@
 			(uuid "3c0d02d0-1f61-4e3f-a42a-a07b2cfed7ee")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49342,12 +48996,6 @@
 		(path "/438ef0a5-c4fe-4595-bed8-37cbedfa33e0")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -49620,7 +49268,7 @@
 			(uuid "93840d95-0aaa-42ab-991a-a95ff86e3f9d")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49752,12 +49400,6 @@
 		(path "/63011d39-1259-48fd-a5bf-0f7bd6f5925a")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50031,7 +49673,7 @@
 			(uuid "819c75e2-9851-4b73-88b9-328ea6b5cc51")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -50163,12 +49805,6 @@
 		(path "/6c5a23f9-3086-471d-b865-5cfc170443bd")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50442,7 +50078,7 @@
 			(uuid "e6311d76-630a-488a-95a4-f701369601be")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -50574,12 +50210,6 @@
 		(path "/acafde9a-64ea-4d6b-ad24-8884335dd027")
 		(sheetname "/")
 		(sheetfile "donut.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50853,7 +50483,7 @@
 			(uuid "426466a5-b216-4506-a47a-7c4f986f0c9f")
 		)
 		(embedded_fonts no)
-		(model "/home/russell/donut/3d/IN-P36ATEUW.56.stp"
+		(model "../3d/IN-P36ATEUW.56.stp"
 			(offset
 				(xyz 0 0 0)
 			)
