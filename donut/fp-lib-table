@@ -1,0 +1,8 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "inolux") (type "KiCad") (uri "${KIPRJMOD}/inolux.pretty") (options "") (descr ""))
+	(lib (name "onsemi") (type "KiCad") (uri "${KIPRJMOD}/onsemi.pretty") (options "") (descr ""))
+	(lib (name "tt") (type "KiCad") (uri "${KIPRJMOD}/tt.pretty") (options "") (descr ""))
+	(lib (name "bourns") (type "KiCad") (uri "/home/russell/donut/bourns.pretty") (options "") (descr ""))
+	(lib (name "eswitch") (type "KiCad") (uri "${KIPRJMOD}/eswitch.pretty") (options "") (descr ""))
+)

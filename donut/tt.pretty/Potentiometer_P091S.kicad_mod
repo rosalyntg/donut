@@ -1,0 +1,127 @@
+(footprint "Potentiometer_P091S"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4cce6137-be78-4977-b71c-47862ffa3a0f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Potentiometer_P091S"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "178a1751-6a10-4a13-b988-33426a5c473a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6dc34afc-9bf9-4639-8b0e-28f020ca72db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8cab7824-3c94-43cb-a58a-32e275f617b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "cf9eab29-2921-49f8-a8aa-f5fd2c124761")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 2.5)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "40790003-cb1b-4836-abf5-23e29f753c92")
+	)
+	(pad "2" thru_hole roundrect
+		(at 0 -2.5)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "eed2e30d-36a8-438f-9e31-fc1f4d1b1f28")
+	)
+	(pad "3" thru_hole roundrect
+		(at 6.25 2.5)
+		(size 2 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "f42e381a-88b0-422a-8fa4-2e37a04fa355")
+	)
+	(pad "4" thru_hole roundrect
+		(at 6.25 0)
+		(size 2 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "cc76aa71-99de-46e1-98d7-0a7e8cc80342")
+	)
+	(pad "5" thru_hole roundrect
+		(at 6.25 -2.5)
+		(size 2 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "97113535-0a1d-445f-8354-d4e30f8f173c")
+	)
+	(embedded_fonts no)
+	(model "/home/russell/donut/3d/P091S-FC20BR10K.stp"
+		(offset
+			(xyz 10.2 -0.2 6.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -90 90)
+		)
+	)
+)
